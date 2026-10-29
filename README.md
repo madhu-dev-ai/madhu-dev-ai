@@ -34,5 +34,39 @@
 
 # | 6 | \[cocotb-apb-regs](https://github.com/madhu-dev-ai/cocotb-apb-regs) | APB register block |
 
-# | 7 | \[cocotb-axis-fifo](https://github.com/madhu-
+# | 7 | \[cocotb-axis-fifo](https://github.com/madhu-dev-ai/cocotb-axis-fifo) | AXI-Stream FIFO |
+
+# | 8 | \[cocotb-apb-uvm](https://github.com/madhu-dev-ai/cocotb-apb-uvm) | UVM-style layered testbench (driver, monitor, scoreboard, coverage) with 500 random operations and 10/10 coverage bins |
+
+# | 9 | \[cocotb-async-fifo](https://github.com/madhu-dev-ai/cocotb-async-fifo) | Asynchronous FIFO with Gray-code pointers, UVM-style testbench, 10/10 coverage bins, 2 planted bugs caught |
+
+# 
+
+# \## Skills
+
+# 
+
+# \- \*\*Verification:\*\* cocotb, Python, constrained-random testing, scoreboards, functional coverage
+
+# \- \*\*HDL and tools:\*\* Verilog, SystemVerilog, Icarus Verilog, Make, Git, GitHub Actions
+
+# \- \*\*Protocols:\*\* APB, AXI-Stream, UART
+
+# 
+
+# \## Coming Next
+
+# 
+
+# \- AXI4-Lite register slave
+
+# \- Constrained-random sequences
+
+# 
+
+# \## Contact
+
+# 
+
+# Email: madhukumari2332@gmail.com
 
